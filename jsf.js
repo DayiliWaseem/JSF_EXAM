@@ -1,5 +1,3 @@
-// Javascript start tag
-<script>
 // Student ID: PA-30967
 
 // capture the value of two elements of first form of the HTML document which are the username and password inputs feilds.
@@ -23,6 +21,3 @@ window.setTimeout(function () {
 
 }, 3000)
 //eof
-
-// Javascript end tag
-</script>
